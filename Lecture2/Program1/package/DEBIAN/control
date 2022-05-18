@@ -1,0 +1,10 @@
+Package:Program1
+Version:1.0
+Section:unknown
+Priority:optional
+Depends:libc6
+Architecture:all
+Essential:no
+Install-size:12
+Maintainer:koposasha@yandex.ru
+Description:1-st programm
