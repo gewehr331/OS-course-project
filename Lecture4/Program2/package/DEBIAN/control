@@ -1,0 +1,10 @@
+Package: Program2
+Version: 1.0
+Section: unknown
+Priority: optional
+Depends: libc6
+Architecture: all
+Essential: no
+Installed-Size: 12
+Maintainer: koposasha@yandex.ru
+Description: Pr2 Lec4
